@@ -1,4 +1,4 @@
-# Work-Day-Scheduler
+# Work Day Scheduler
 
 Functions as a daily planner, includes current date at the top of the page.
 
